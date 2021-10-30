@@ -25,7 +25,7 @@ setup(
     version=get_version(),
     author="ddy23",
     author_email="",
-    url="https://github.com/Bonsanto/polygon-geohasher",
+    url="https://github.com/ddy23/site-tools",
     description="Site Tools",
     long_description=readme(),
     license="MIT",
